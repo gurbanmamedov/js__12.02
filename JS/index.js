@@ -137,3 +137,8 @@ const enteredNum = parseInt(prompt("Введите целое число: "));
 const evenNum = enteredNum % 2 === 0;
 
 alert("Число " + enteredNum + "является " + evenNum);
+
+
+
+
+'Hello Wordl'
